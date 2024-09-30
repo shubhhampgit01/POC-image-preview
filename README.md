@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/c27b8424-fa9a-44ed-b4d1-b7085a4c3a98
 - Smooth animations ensure a seamless user experience, while the layout can be tailored to different images and use cases.
 
 
-
+---
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
