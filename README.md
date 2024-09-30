@@ -1,6 +1,49 @@
 # Preview 
-Uploading Screen Recording 2024-07-12 194130.mp4…
 
+
+https://github.com/user-attachments/assets/c27b8424-fa9a-44ed-b4d1-b7085a4c3a98
+
+
+
+### **Features of POC Image Preview**
+
+1. **Interactive Image Comparison**:
+   - Allows users to compare two images side-by-side with a draggable slider. The swipe gesture adjusts how much of each image is visible in real-time.
+
+2. **Gesture Handling**:
+   - Uses `PanGestureHandler` to recognize swipes, making it user-friendly and interactive for touch-based devices like smartphones.
+
+3. **Smooth Animations**:
+   - The `useSharedValue` and `useAnimatedStyle` hooks from `react-native-reanimated` create fluid transitions between images as the slider is moved.
+
+4. **Customizable Layout**:
+   - The app can be easily modified to accommodate different image dimensions, layouts, and styles.
+
+5. **Cross-Platform**:
+   - Designed using React Native, allowing the app to work seamlessly on both iOS and Android devices.
+
+---
+
+### **Detailed Use Cases**
+
+1. **Photo Editing/Before-After Previews**:
+   - Users can compare the original image with an edited version, visualizing the changes in real-time by swiping the slider.
+
+2. **E-commerce Product Variations**:
+   - Customers can compare product variations (e.g., color, texture) by swiping between two images, improving their shopping experience.
+
+3. **UX/UI Design Comparison**:
+   - Designers can showcase different versions of UI layouts or design prototypes to clients or teams by comparing them side-by-side.
+
+4. **Medical Image Comparison**:
+   - Doctors or radiologists can compare medical images (e.g., MRI scans) to observe changes over time, enhancing diagnostic efficiency.
+
+5. **Gaming/3D Modeling**:
+   - Game developers or artists can compare textures, environments, or character models for quality assurance and creative decision-making.
+
+### **Summary of Core Functionality**
+- The app’s core feature is the dynamic comparison between two images using a draggable slider, controlled by gesture handling.
+- Smooth animations ensure a seamless user experience, while the layout can be tailored to different images and use cases.
 
 
 
